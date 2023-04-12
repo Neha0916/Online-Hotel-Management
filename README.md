@@ -1,7 +1,13 @@
 # Online-Hotel-Management
 # Home Page
-![Screenshot 2023-04-11 201946](https://user-images.githubusercontent.com/98107526/231201637-ff92bb2a-4bb6-4812-8b31-74bf723a4e52.png)
+
+
+![Screenshot 2023-04-12 075358](https://user-images.githubusercontent.com/98107526/231331786-3bf12858-2314-4c32-afda-81fa6ace043a.png)
+
+
 # About Page
-![Screenshot 2023-04-11 201856](https://user-images.githubusercontent.com/98107526/231201942-b79ea312-e768-4f4f-82a1-7a9c0bf84983.png)
+
+![Screenshot 2023-04-12 075326](https://user-images.githubusercontent.com/98107526/231331801-6f8d74b8-bbea-41c3-95c7-88d2db9d8775.png)
+
 # Welcome to the Online Hotel Management Website
 This is a simple as well as responsive website which is made by using beginner level HTML, CSS.
