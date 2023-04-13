@@ -394,3 +394,12 @@ form input {
 .contdata form div {
     padding: 4.5px;
 }
+footer {
+    background-color: #3a19bd;
+    color: rgb(239, 233, 233);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 44px;
+    padding-top: 10px;
+}

@@ -158,3 +158,19 @@ a img:hover {
     align-items: center;
     justify-content: center;
 }
+footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 35px;
+    padding-top: 7px;
+}
+
+@media screen and (max-width: 460px) {
+    footer {
+        font-size: smaller;
+        height: 45px;
+    }
+}
